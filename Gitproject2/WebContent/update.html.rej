@@ -1,0 +1,9 @@
+diff a/Gitproject2/WebContent/update.html b/Gitproject2/WebContent/update.html	(rejected hunks)
+@@ -6,6 +6,7 @@
+ </head>
+ <body>
+ <h1>Git ����</h1>
++=======
+ <meta charset="UTF-8">
+ <title>Insert title here</title>
+ </head>
